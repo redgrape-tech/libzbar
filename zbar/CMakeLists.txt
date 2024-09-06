@@ -11,6 +11,9 @@ set(SOURCES
     refcnt.c
     scanner.c
     symbol.c
+    convert.c 
+    video.c 
+    video/null.c
 )
 
 set(HEADERS
